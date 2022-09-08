@@ -4,7 +4,7 @@
     margin-top: 10px;
 }
 
-ul.slick-dots li {
+ul.slick-dots li{
     margin-right: 10px;
 }
 
@@ -20,7 +20,7 @@ ul.slick-dots li {
     transition: 0.3s all;
 }
 
-.slick-active button {
-    width: 28px;
+li.slick-active button{
+    width: 25px;
     height: 25px;
 }
