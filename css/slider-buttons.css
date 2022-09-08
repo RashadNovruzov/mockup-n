@@ -20,7 +20,7 @@ ul.slick-dots li {
     transition: 0.3s all;
 }
 
-.slick-active li button {
+.slick-active button {
     width: 28px;
     height: 25px;
 }
